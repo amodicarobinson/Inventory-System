@@ -1,0 +1,2 @@
+Initials    Date      Product            Quantity
+AM-R        04-04-22  Laptop                  100

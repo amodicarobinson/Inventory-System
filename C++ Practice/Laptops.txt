@@ -1,0 +1,8 @@
+Initials    Date      Laptop Name    Type of Laptop    		Serial Number	    User
+AM-R        04-01-22  COS-SPT009     HP EliteBook x360 1040 G8 cnd121345as
+Am-R        04-01-22  COS-IT008      HP EliteBook x360 1040 G8  cnd123455f
+AM-R        04-04-22  COS-SPT005     HP EliteBook x360 1040 G8  CND1193851
+AM-R        04-04-22  COS-SPM008     HP EliteBook x360 1040 G8 CND119382X           Jane
+AM-R        04-04-22  COS-FMD009     HP EliteBook x360 1040 G8 CND119382Xmodicarobinsona
+AM-R        04-04-22  COS_IT009      HP EliteBook x360 1040 G8 CND1193844            EllisT
+AM-R        04-04-22  COS-IT005      HP EliteBook x360 1040 G8440C5UC#ABA                  
